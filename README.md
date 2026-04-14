@@ -6,7 +6,7 @@
 
 For questions, bug reports, or feature requests, please email us at:
 
-**support@kalorie-app.com**
+**hi@kalorie.live**
 
 Or open an issue in this repository.
 
