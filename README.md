@@ -21,8 +21,8 @@ Point your camera at any food barcode (EAN-13 or UPC). Kalorie pulls nutrition d
 ### What's included in the free tier?
 - Manual food logging (unlimited)
 - Barcode scanning (unlimited)
-- 3 AI food scans per day
-- 3 AI nutritionist messages per day
+- 3 AI food scans 
+- 3 AI nutritionist messages 
 - 7-day analytics view
 
 ### What does Premium include?
