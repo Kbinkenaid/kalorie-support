@@ -35,7 +35,6 @@ Kalorie ("we", "our", "us") operates the Kalorie mobile application. This page i
 We do **not** sell your personal data. We share data only with:
 - **Supabase** — backend infrastructure and database hosting
 - **RevenueCat** — subscription management
-- **Anthropic** — AI food recognition and nutritionist (images/text processed, not stored)
 - **Firebase** — analytics and push notifications
 - **Sentry** — crash reporting
 
