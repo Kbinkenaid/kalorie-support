@@ -26,7 +26,7 @@ Point your camera at any food barcode (EAN-13 or UPC). Kalorie pulls nutrition d
 - 7-day analytics view
 
 ### What does Premium include?
-- Unlimited AI food scans and nutritionist chats
+- AI food scans and nutritionist chats
 - 30-day and 90-day analytics
 - Messaging and social features
 - Achievements and streaks
